@@ -16,13 +16,13 @@ A lightweight, colorful debugging library for Go that provides pretty-printed va
 ## Installation
 
 ```bash
-go get github.com/Neaj-Morshad-101/go-library/pkg/watch
+go get github.com/Neaj-Morshad-101/go-debug-watch/pkg/watch
 ```
 
 ## Usage
 
 ```go
-import "github.com/Neaj-Morshad-101/go-library/pkg/watch"
+import "github.com/Neaj-Morshad-101/go-debug-watch/pkg/watch"
 
 func main() {
     // Watch primitive types

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Neaj-Morshad-101/go-library/pkg/watch"
+	"github.com/Neaj-Morshad-101/go-debug-watch/pkg/watch"
 )
 
 //package main
